@@ -4,6 +4,7 @@ django-js-asset==3.0.1
 django-tinymce==4.1.0
 django-widget-tweaks==1.5.0
 pillow==11.1.0
+psycopg2-binary==2.9.10
 PyYAML==6.0.2
 sqlparse==0.5.3
 tzdata==2024.2
